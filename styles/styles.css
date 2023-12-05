@@ -45,16 +45,46 @@ body{
     background-color: var(--background-color);
     color: var(--text-color);
     font-family: var(--regular-font);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+logo {
+    text-align: center;
+}
+h3 {
+    font-family: var(--bold-font);
+    text-decoration: underline;
+    text-decoration-color: #23A8FE;
+    text-underline-offset: 0.35em;
+    text-decoration-thickness: 0.1em;
+    margin: 1.5em;
 }
 
 h1{
     font-family: var(--bold-font);
+    border-radius: 0.5em;
+    font-size: 1.5em;
 }
 
-h2{
+h2 {
     font-family: var(--bold-font);
 }
 
 p {
-    font-family: var(--regular-font);
+    font-family: var(--light-font);
+    font-size: 1em;
 }
+
+article {
+    background-color: var(--background-color2);
+    border-radius: 0.5em;
+    margin: 0 1.5em 1em 1.5em;
+}
+
+section {
+    gap: 2em;
+}
+
