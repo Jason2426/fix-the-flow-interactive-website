@@ -2,7 +2,7 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# H&F Calculator 🌏
+# H&F🌏
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## User Story
@@ -18,7 +18,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ## Bronnen
 
-[SDG Goals](https://sdgs.un.org/goals)
+[SDG Goals](https://sdgs.un.org/goals) ⚽
 
 ## Licentie
 
