@@ -48,19 +48,11 @@ body{
 
     display: flex;
     flex-direction: column;
-    align-items: center;
+    margin: 2em;
 }
 
 logo {
     text-align: center;
-}
-h3 {
-    font-family: var(--bold-font);
-    text-decoration: underline;
-    text-decoration-color: #23A8FE;
-    text-underline-offset: 0.35em;
-    text-decoration-thickness: 0.1em;
-    margin: 1.5em;
 }
 
 h1{
@@ -71,6 +63,16 @@ h1{
 
 h2 {
     font-family: var(--bold-font);
+    margin-top: 1em;
+}
+
+h3 {
+    font-family: var(--bold-font);
+    text-decoration: underline;
+    text-decoration-color: #23A8FE;
+    text-underline-offset: 0.35em;
+    text-decoration-thickness: 0.1em;
+    margin: 1.5em;
 }
 
 p {
@@ -78,13 +80,11 @@ p {
     font-size: 1em;
 }
 
-article {
+ul {
+    list-style-type: none;
+}
+
+.sdg {
     background-color: var(--background-color2);
     border-radius: 0.5em;
-    margin: 0 1.5em 1em 1.5em;
 }
-
-section {
-    gap: 2em;
-}
-
