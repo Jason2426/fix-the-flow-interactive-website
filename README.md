@@ -16,6 +16,10 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
 
+## Bronnen
+
+[SDG Goals](https://sdgs.un.org/goals)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
