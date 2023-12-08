@@ -88,3 +88,9 @@ ul {
     background-color: var(--background-color2);
     border-radius: 0.5em;
 }
+
+/* minimal styling */ 
+
+summary {
+    list-style: none;
+}
