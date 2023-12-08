@@ -20,6 +20,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 [SDG Goals](https://sdgs.un.org/goals) ⚽
 
+[Javascript variables](https://javascript.info/variables)
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
