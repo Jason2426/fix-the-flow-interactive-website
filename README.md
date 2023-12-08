@@ -7,6 +7,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ## User Story
 <!-- Schrijf de user story waar je aan hebt gewerkt  -->
+Als gebruiker wil ik per SDG een korte uitleg/beschrijving kunnen lezen zodat ik weet wat ze allemaal inhouden
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
@@ -15,6 +16,12 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+Gebruikte technieken 
+
+* HTML
+* CSS
+* Javascript
+* Figma
 
 ## Bronnen
 
