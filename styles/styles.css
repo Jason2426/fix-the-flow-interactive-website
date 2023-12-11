@@ -94,3 +94,19 @@ ul {
 summary {
     list-style: none;
 }
+
+button {
+
+    outline: none;
+    border: none;
+    background-color: #23A8FE;
+    color: white;
+    width: 6em;
+    height: 6em;
+   
+}
+
+.changeSize {
+    width: 10em;
+    height: 10em;
+}
