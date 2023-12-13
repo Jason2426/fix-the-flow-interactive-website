@@ -1,9 +1,8 @@
 
-let nopo = document.querySelector('#nopo')
+let first = document.querySelector('#first')
 
-nopo.addEventListener("click", function(){
+first.addEventListener('click', function(){
 
-  // Koppelen van een actie
-  nopo.classList.add(".changeSize");
+  first.classList.add('changeSize');
 })
 

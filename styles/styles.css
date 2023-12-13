@@ -49,13 +49,15 @@ body{
     display: flex;
     flex-direction: column;
     margin: 2em;
+
+    cursor: url("/assets/icons8-cursor-64.png"), pointer;
 }
 
 logo {
     text-align: center;
 }
 
-h1{
+h1 {
     font-family: var(--bold-font);
     border-radius: 0.5em;
     font-size: 1.5em;
@@ -89,24 +91,31 @@ ul {
     border-radius: 0.5em;
 }
 
-/* minimal styling */ 
-
-summary {
-    list-style: none;
-}
 
 button {
-
     outline: none;
     border: none;
     background-color: #23A8FE;
     color: white;
-    width: 6em;
-    height: 6em;
-   
+    height: 7em;
+    width: 7em;
+    border-radius: 0.5em;
+}
+
+.layout {
+    display: flex;
+    justify-content: center;
+    margin: 1em 0 1em 0;
+    gap: 0.5em; 
+    
+
+
 }
 
 .changeSize {
     width: 10em;
     height: 10em;
 }
+
+
+
