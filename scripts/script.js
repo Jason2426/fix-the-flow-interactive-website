@@ -5,4 +5,3 @@ first.addEventListener('click', function(){
 
   first.classList.add('changeSize');
 })
-

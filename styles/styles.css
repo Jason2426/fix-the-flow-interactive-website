@@ -68,6 +68,7 @@ h2 {
     margin-top: 1em;
 }
 
+
 h3 {
     font-family: var(--bold-font);
     text-decoration: underline;
@@ -100,22 +101,42 @@ button {
     height: 7em;
     width: 7em;
     border-radius: 0.5em;
+    
 }
 
 .layout {
     display: flex;
     justify-content: center;
-    margin: 1em 0 1em 0;
+    margin: 1em 0em 1em 0em;
     gap: 0.5em; 
     
-
-
 }
+/* Button styling */
 
 .changeSize {
-    width: 10em;
-    height: 10em;
+    width: 28em;
+    height: 14em;
+    transition: all 0.4s ease-in-out;
+  
 }
+.changeBack {
+    width: 7em;
+    height: 7em;
+}
+
+#first {
+    background-color: #FF1628;
+}
+
+#second {
+    background-color: #E2A00C;
+}
+
+#third {
+    background-color: #009B3E;
+}
+
+
 
 
 
