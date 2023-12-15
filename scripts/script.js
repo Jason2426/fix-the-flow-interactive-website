@@ -1,7 +1,11 @@
 
-let first = document.querySelector('#first')
+// let first = document.querySelector('#first')
 
-first.addEventListener('click', function(){
+// first.addEventListener('click', function(){
 
-  first.classList.add('changeSize');
-})
+//   first.classList.add('changeSize');
+// })
+
+function clickButton(currentButton) {
+  currentButton.classList.toggle('changeSize');
+}
