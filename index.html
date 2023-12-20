@@ -4,47 +4,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="stylesheet" href="styles/style.css">
     <script src="scripts/script.js" defer></script>
-    <title>Prequiz</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src=""></script>
+    <title>Home</title>
 </head>
 
 <body>
-    <logo>
-        <h3>H&F Calculator</h3>
-    </logo>
-    <div style="display: none;">
-        <section class="before-we-start">
-            <h1>Before we start</h1>
-            <p>To continue our journey, we will have to gather information about the stakeholders within the company and
-                which SDGs match the most to their contribution. Please read the questions carefully and take your time.
-            </p>
-        </section>
-        <section class="eta">
-            <p>Estimated time of completion : <strong>25 Minutes</strong></p>
-            <button>Continue</button>
-        </section>
-        <section class="divided-subjects">
-            <h2>The divided subjects</h2>
+    <header>
+        <logo>
+            <h3>H&F Calculator</h3>
+        </logo>
+        <nav class="sidebarclose">
+            <button class="">
+                <!-- menu                  -->
+            </button>
+        </nav>
+        <nav class="navDesktop">
             <ul>
-                <li>Customers</li>
-                <li>Suppliers</li>
-                <li>Employees</li>
-                <li>Owners</li>
-                <li>Physical & social environment</li>
+                <li><a href="#"></a>About us</li>
+                <li><a href="#"></a>Login</li>
+                <li><a href="#"></a>Signup</li>
             </ul>
-        </section>
-    </div>
-    <section class="sdg">
-        <h2>Sustainable Development Goals (SDGs)</h2>
-        <p>By clicking on a specific SDG you will get to see a better explanation of the chosen SDG.</p>
-        <section class="layout">
-            <button onclick="clickButton(this)"  id="first">NO POVERTY</button>
-            <button onclick="clickButton(this)" id="second">ZERO HUNGER</button>
-            <button onclick="clickButton(this)" id="third">GOOD HEALTH AND WELL BEING</button>
+        </nav>
+    </header>
 
-        </section>
+    <section class="main-container">
+        <article class="first">
+            <h1>Get an insight of your hand & footprint.</h1>
+            <p>Welcome to the hand & footprint calculator, by entering data we can give you a clear insight of your current
+                hand & footprint. After we have collected enough data we will give you access to your own personalized
+                dashboard.</p>
+            <a href="sdgs.html"><button class="start-btn">Start Calculation</button></a>
+            <p>With just a few minutes of your time, learn about how you can contribute to impact projects to be aligned
+                with Paris Agreement goals.</p>
+        </article>
+        <article class="second">
+            <img src="assets/logo-H&F.png" class="earth-style">
+        </article>
     </section>
 </body>
-
 </html>
