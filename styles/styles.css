@@ -125,7 +125,7 @@ header {
 
 .article1 {
     background-color: #272932;
-    padding: var(--primary-spacing);
+    padding: var(--secondary-spacing);
     border-radius: var(--primary-spacing);
     margin: var(--primary-spacing);
     text-align: left;
@@ -158,7 +158,7 @@ button {
 
 .continueBT {
     height: 3em;
-    width: 14.5em;
+    width: 17em;
     background-color: #43CB8E;
     font-family: var(--bold-font);
 }

@@ -78,6 +78,10 @@
     top: 1.5em;
     border-radius: 5px 0 0 5px;
   }
+
+  .navDesktop{
+    display: none;
+  }
   
   ul {
     list-style-type: none;
