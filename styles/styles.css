@@ -87,12 +87,18 @@ a:visited {
     text-decoration: none;
 }
 
+/* Header and nav styling */
+
+header {
+    display: flex;
+    justify-content: center;
+    margin: var(--secondary-spacing);
+  }
+
 /* sections styling */
 .main-container {
-    padding: var(--primary-spacing);
     border-radius: var(--primary-spacing);
     margin: var(--secondary-spacing);
-
 }
 
 .bws {
